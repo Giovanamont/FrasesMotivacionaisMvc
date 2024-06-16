@@ -1,0 +1,16 @@
+C:\Users\user\Desktop\pedro\front-frases-Motivacionais-master\front-frases-Motivacionais-master\obj\Debug\net8.0\APIMvc.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\pedro\front-frases-Motivacionais-master\front-frases-Motivacionais-master\obj\Debug\net8.0\APIMvc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\pedro\front-frases-Motivacionais-master\front-frases-Motivacionais-master\obj\Debug\net8.0\APIMvc.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\pedro\front-frases-Motivacionais-master\front-frases-Motivacionais-master\obj\Debug\net8.0\APIMvc.AssemblyInfo.cs
+C:\Users\user\Desktop\pedro\front-frases-Motivacionais-master\front-frases-Motivacionais-master\obj\Debug\net8.0\APIMvc.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\pedro\front-frases-Motivacionais-master\front-frases-Motivacionais-master\obj\Debug\net8.0\APIMvc.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\Desktop\pedro\front-frases-Motivacionais-master\front-frases-Motivacionais-master\obj\Debug\net8.0\APIMvc.RazorAssemblyInfo.cache
+C:\Users\user\Desktop\pedro\front-frases-Motivacionais-master\front-frases-Motivacionais-master\obj\Debug\net8.0\APIMvc.RazorAssemblyInfo.cs
+C:\Users\user\Desktop\pedro\API giovana\APIMvc\obj\Debug\net8.0\APIMvc.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\pedro\API giovana\APIMvc\obj\Debug\net8.0\APIMvc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\pedro\API giovana\APIMvc\obj\Debug\net8.0\APIMvc.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\pedro\API giovana\APIMvc\obj\Debug\net8.0\APIMvc.AssemblyInfo.cs
+C:\Users\user\Desktop\pedro\API giovana\APIMvc\obj\Debug\net8.0\APIMvc.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\pedro\API giovana\APIMvc\obj\Debug\net8.0\APIMvc.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\Desktop\pedro\API giovana\APIMvc\obj\Debug\net8.0\APIMvc.RazorAssemblyInfo.cache
+C:\Users\user\Desktop\pedro\API giovana\APIMvc\obj\Debug\net8.0\APIMvc.RazorAssemblyInfo.cs
